@@ -4,3 +4,5 @@ branch-2 line 3
 
 branch-2 line 5 is good
 
+branch-2 line 7
+
