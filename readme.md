@@ -1,3 +1,4 @@
+
 branch-2 first commit;
 
 branch-2 line 3
