@@ -1,5 +1,5 @@
-master first commit;
+branch-1 first commit;
 
-master line 3
+branch-1 line 3
 
-master line 5
+branch-1 line 5
